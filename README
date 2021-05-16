@@ -1,0 +1,9 @@
+Protocol:
+1. nalA - string "Pozdravljen [CLIENT IP ADDRESS:CLIENT GATE]"
+2. nalB - get current date and time
+3. nalC - get current working directory
+4. nalD - get message you sent with this protocol
+5. nalE - get system information
+6. nalF - decodes the FEN input into readable information
+7. nalG - encrypts message using TripleDES which the client then decrypts
+8. end  - ends the connection

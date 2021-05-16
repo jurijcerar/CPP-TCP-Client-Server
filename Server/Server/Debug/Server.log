@@ -1,0 +1,5 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Server.cpp
+C:\Users\JurijCerar\source\repos\Server\Server\Server.cpp(91,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\JurijCerar\source\repos\Server\Server\Server.cpp(129,22): warning C4018: '<': signed/unsigned mismatch
+  Server.vcxproj -> C:\Users\JurijCerar\source\repos\Server\Debug\Server.exe
